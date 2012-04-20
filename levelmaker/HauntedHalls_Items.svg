@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1666"
+   height="1468"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="HauntedHalls_Items.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="1023.138"
+     inkscape:cy="587.54172"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1224"
+     inkscape:window-height="756"
+     inkscape:window-x="56"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,0)">
+    <image
+       y="0"
+       x="0"
+       id="map"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/FinalFighter-mac/HauntedHalls.png"
+       height="1468"
+       width="1666"
+       style="opacity:0.66" />
+    <image
+       y="1384.6479"
+       x="775.14282"
+       id="image3077"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_up.png"
+       height="64"
+       width="64" />
+    <image
+       y="986.28571"
+       x="473.28574"
+       id="image3096"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="987"
+       x="529"
+       id="image3158"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="882"
+       x="497.57144"
+       id="image3220"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="694.85712"
+       x="761.85718"
+       id="image3282"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="694.85718"
+       x="844.71429"
+       id="image3392"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="984.85718"
+       x="1070.4286"
+       id="image3454"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="985.57147"
+       x="1123.2858"
+       id="image3516"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="874.85712"
+       x="1093.2858"
+       id="image3610"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="521.28577"
+       x="804"
+       id="image3672"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="546.28571"
+       x="861.14288"
+       id="image3734"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="539.14282"
+       x="747.57141"
+       id="image3796"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="1318.4286"
+       x="131.85715"
+       id="image3906"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="1327.7142"
+       x="465.42856"
+       id="image4016"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="1316.2858"
+       x="280.42856"
+       id="image4094"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/mine.png"
+       height="32"
+       width="32" />
+    <image
+       y="1335.5714"
+       x="1127.5714"
+       id="image4204"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="1317"
+       x="1491.1428"
+       id="image4314"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="1322.7144"
+       x="1322.5715"
+       id="image4392"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/mine.png"
+       height="32"
+       width="32" />
+    <image
+       y="714.85712"
+       x="1606.8572"
+       id="image4486"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="714.85718"
+       x="21.142862"
+       id="image4580"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="80.571419"
+       x="732.57135"
+       id="image4802"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="74.857147"
+       x="918.28577"
+       id="image4896"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="14.857161"
+       x="829.71429"
+       id="image4958"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="249.14284"
+       x="24.000053"
+       id="image5130"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="14.857169"
+       x="266.85712"
+       id="image5240"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/rocket.png"
+       height="32"
+       width="32" />
+    <image
+       y="174.85713"
+       x="172.57143"
+       id="image5318"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/mine.png"
+       height="32"
+       width="32" />
+    <image
+       y="132.00003"
+       x="601.14288"
+       id="image5477"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="137.71428"
+       x="1023.9999"
+       id="image5663"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/grenade.png"
+       height="32"
+       width="32" />
+    <image
+       y="372"
+       x="815.42859"
+       id="image5757"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="138.85716"
+       x="1459.4285"
+       id="image5854"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_bottomleft.png"
+       height="64"
+       width="64" />
+    <image
+       y="553.14282"
+       x="1476.5714"
+       id="image5916"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_left.png"
+       height="64"
+       width="64" />
+    <image
+       y="27.428572"
+       x="33.714321"
+       id="image5978"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_bottomright.png"
+       height="64"
+       width="64" />
+    <image
+       y="1064.5714"
+       x="619.42859"
+       id="image6040"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_right.png"
+       height="64"
+       width="64" />
+    <image
+       y="1064.5714"
+       x="945.14288"
+       id="image6102"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_left.png"
+       height="64"
+       width="64" />
+    <image
+       y="380.57144"
+       x="132.57143"
+       id="image6148"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/flame.png"
+       height="32"
+       width="32" />
+    <image
+       y="1414.8572"
+       x="1604"
+       id="image6194"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/flame.png"
+       height="32"
+       width="32" />
+    <image
+       y="1423.4286"
+       x="21.14291"
+       id="image6240"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/flame.png"
+       height="32"
+       width="32" />
+    <image
+       y="1220.5714"
+       x="786.85706"
+       id="image6334"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/repair.png"
+       height="32"
+       width="32" />
+    <image
+       y="118.85717"
+       x="333.71432"
+       id="image6396"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_bottomright.png"
+       height="64"
+       width="64" />
+    <image
+       y="604.57141"
+       x="130.85719"
+       id="image6458"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_right.png"
+       height="64"
+       width="64" />
+    <image
+       y="736"
+       x="968.00006"
+       id="image6520"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_topright.png"
+       height="64"
+       width="64" />
+    <image
+       y="738.85718"
+       x="593.71423"
+       id="image6582"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/tank_topleft.png"
+       height="64"
+       width="64" />
+    <image
+       y="687.82849"
+       x="821.81433"
+       id="image3100"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/palm2.png"
+       height="130"
+       width="126" />
+    <image
+       y="869.70239"
+       x="726.68561"
+       id="image3162"
+       xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Items/palm1.png"
+       height="106"
+       width="107" />
+  </g>
+</svg>

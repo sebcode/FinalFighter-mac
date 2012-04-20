@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FinalFighter-debug.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>FinalFighter-release.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FinalFighter-test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>962E5386155D5836007B769A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>968D60A016162B4300D233DF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96981DCF1541E61800C234B7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96D6A5C1155D54CA00231A1A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

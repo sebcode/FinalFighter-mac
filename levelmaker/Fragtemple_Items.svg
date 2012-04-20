@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1027"
+   height="1492"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="Fragtemplate_Pickups.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="433.57245"
+     inkscape:cy="1040.0625"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1216"
+     inkscape:window-height="749"
+     inkscape:window-x="53"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <image
+     y="0"
+     x="0"
+     id="map"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/FinalFighter-mac/Fragtemple.png"
+     height="1492"
+     width="1027"
+     style="opacity:0.76999996"
+     inkscape:label="#image3133" />
+  <image
+     y="1241"
+     x="136.14287"
+     id="image3192"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/repair.png"
+     height="32"
+     width="32" />
+  <image
+     width="32"
+     height="32"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/repair.png"
+     id="image3195"
+     x="207.57143"
+     y="1041.7142" />
+  <image
+     y="593.14276"
+     x="304.71432"
+     id="image3246"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/grenade.png"
+     height="32"
+     width="32"
+     inkscape:transform-center-x="-57.857143"
+     inkscape:transform-center-y="100" />
+  <image
+     y="987"
+     x="400.42856"
+     id="image3364"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/flame.png"
+     height="32"
+     width="32" />
+  <image
+     width="32"
+     height="32"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/flame.png"
+     id="image3369"
+     x="580.42859"
+     y="987" />
+  <image
+     inkscape:transform-center-y="100"
+     inkscape:transform-center-x="-57.857143"
+     width="32"
+     height="32"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/grenade.png"
+     id="image3371"
+     x="684"
+     y="590.28558" />
+  <image
+     y="943.85712"
+     x="817.57147"
+     id="image3499"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/mine.png"
+     height="32"
+     width="32" />
+  <image
+     y="487.42859"
+     x="186.85715"
+     id="image3553"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/rocket.png"
+     height="32"
+     width="32" />
+  <image
+     width="32"
+     height="32"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/rocket.png"
+     id="image3556"
+     x="799.71429"
+     y="491.71429" />
+  <image
+     y="348.85715"
+     x="239.00002"
+     id="image3609"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/grenade.png"
+     height="32"
+     width="32" />
+  <image
+     width="32"
+     height="32"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/grenade.png"
+     id="image3612"
+     x="746.14288"
+     y="341.71429" />
+  <image
+     y="166"
+     x="349"
+     id="image3665"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/repair.png"
+     height="32"
+     width="32" />
+  <image
+     width="32"
+     height="32"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/repair.png"
+     id="image3668"
+     x="619"
+     y="164.57143" />
+  <image
+     y="143.85715"
+     x="486.85715"
+     id="image3721"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/flame.png"
+     height="32"
+     width="32" />
+  <image
+     y="704.57147"
+     x="409"
+     id="image3775"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/repair.png"
+     height="32"
+     width="32" />
+  <image
+     width="32"
+     height="32"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/repair.png"
+     id="image3778"
+     x="581.85712"
+     y="705.28577" />
+  <image
+     y="591.42859"
+     x="834.42859"
+     id="image3074"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/tank_left.png"
+     height="64"
+     width="64" />
+  <image
+     y="1073.5714"
+     x="768.71429"
+     id="image4188"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/tank_topleft.png"
+     height="64"
+     width="64" />
+  <image
+     y="1316.4286"
+     x="479.42859"
+     id="image4261"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/tank_up.png"
+     height="64"
+     width="64" />
+  <image
+     y="871.42853"
+     x="72.285713"
+     id="image4334"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/tank_right.png"
+     height="64"
+     width="64" />
+  <image
+     y="301.42859"
+     x="372.28574"
+     id="image4407"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/tank_right.png"
+     height="64"
+     width="64" />
+  <image
+     y="304.28571"
+     x="574.42859"
+     id="image4480"
+     xlink:href="file:///Users/seb/dev/FinalFighter-mac/levelmaker/Pickups/tank_left.png"
+     height="64"
+     width="64" />
+</svg>

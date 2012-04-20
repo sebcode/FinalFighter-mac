@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="menu_icon_info.svg"
+   inkscape:export-filename="/Users/seb/dev/FinalFighter-mac/menu_icon_info.png"
+   inkscape:export-xdpi="11.25"
+   inkscape:export-ydpi="11.25">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-135.93632"
+     inkscape:cy="371.92141"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1228"
+     inkscape:window-height="752"
+     inkscape:window-x="49"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3801"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="M 255.99999,604.50504 C 150.03898,604.50504 64.142855,690.40117 64.142855,796.36218 64.142855,902.32321 150.03898,988.21933 255.99999,988.21933 361.96101,988.21933 447.85714,902.32321 447.85714,796.36218 447.85714,690.40117 361.96101,604.50504 255.99999,604.50504 z M 239.59168,690.75759 H 271.53708 V 724.73587 H 239.59168 V 690.75759 z M 292.45997,896.97696 H 257.32006 C 243.67066,896.97696 237.8492,891.16872 237.8492,877.22892 V 786.60696 C 237.8492,782.25078 235.5259,780.21789 231.46012,780.21789 H 219.84363 V 748.84012 H 254.98355 C 268.64614,748.84012 274.44119,754.93879 274.44119,768.58818 V 859.50055 C 274.44119,863.57952 276.76449,865.88962 280.83027,865.88962 H 292.44678 V 896.97696 z"
+       id="path2985"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
